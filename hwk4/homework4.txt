@@ -21,4 +21,8 @@ packed-refs
 refs/
 
 step c question:
-[Işık University Software Engineering Department](https://www.isikun.edu.tr/akademik/muhendislik-fakultesi/bolumler-ve-programlar/bilgisayar-muhendisligi/programlar/lisans-programi/yazilim-muhendisligi)
+[Işık University Computer Engineering Department](https://www.isikun.edu.tr/akademik/mdbf/bilgisayar-muhendisligi)
+[Link text][URL) 
+
+step d question: 
+
