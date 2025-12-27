@@ -1,1 +1,9 @@
 SOFT2101 Homework 4
+
+Step a question:
+git config --global user.name "my name"
+git config --global user.email "my email"  
+git config --global core.editor "my favorite editor"
+git config --list
+
+step b question:
