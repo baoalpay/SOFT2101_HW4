@@ -7,3 +7,17 @@ git config --global core.editor "my favorite editor"
 git config --list
 
 step b question:
+./
+../
+HEAD
+config
+description
+hooks/
+index
+info/
+logs/
+objects/
+packed-refs
+refs/
+
+step c question:
