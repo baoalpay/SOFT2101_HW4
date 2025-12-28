@@ -25,4 +25,22 @@ step c question:
 [Link text][URL) 
 
 step d question: 
+*.class
+*.log
+*.jar
+*.war
+*.ear
+.idea/
+*.iml
+.vscode/
+.DS_Store
+target/
+.gradle/
+build/
+
+step f question: 
+Files in hwk4 on feature-1:
+RangePrinter.java
+homework4.txt
+
 
