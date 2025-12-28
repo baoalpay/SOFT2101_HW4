@@ -1,12 +1,12 @@
 SOFT2101 Homework 4
 
-Step a question:
+STEP A QUESTION:
 git config --global user.name "my name"
 git config --global user.email "my email"  
 git config --global core.editor "my favorite editor"
 git config --list
 
-step b question:
+STEP B QUESTION:
 ./
 ../
 HEAD
@@ -20,11 +20,11 @@ objects/
 packed-refs
 refs/
 
-step c question:
+STEP C QUESTION:
 [Işık University Computer Engineering Department](https://www.isikun.edu.tr/akademik/mdbf/bilgisayar-muhendisligi)
 [Link text][URL) 
 
-step d question: 
+STEP D QUESTION: 
 *.class
 *.log
 *.jar
@@ -38,9 +38,12 @@ target/
 .gradle/
 build/
 
-step f question: 
+STEP F QUESTION: 
 Files in hwk4 on feature-1:
 RangePrinter.java
 homework4.txt
 
+STEP J QUESTION:
+satisfying requirement change two
+satisfying requirement one
 
